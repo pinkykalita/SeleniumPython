@@ -1,0 +1,1222 @@
+1692361038808	geckodriver	INFO	Listening on 127.0.0.1:57066
+1692361041874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BBDNET~1\\AppData\\Local\\Temp\\rust_mozprofileqGQErh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692361042321	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692361042397	Marionette	INFO	Listening on port 57081
+Read port: 57081
+WebDriver BiDi listening on ws://127.0.0.1:57067
+1692361042480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57067/devtools/browser/aaf02951-2d9d-45e3-913d-edb33150bc04
+JavaScript error: moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js, line 95: TypeError: items.supported_file_override_actions_upload_protection is undefined
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 365
+[[Exception stack
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:365:59
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 361
+[[Exception stack
+a@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:361:54
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 846
+[[Exception stack
+G_cp_qd@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:846:260
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:363:296
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+run@resource://gre/modules/ConduitsChild.sys.mjs:180:30
+receiveMessage/<@resource://gre/modules/ConduitsChild.sys.mjs:181:46
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:181:31
+]]
+Extension error: TypeError: items is null moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js 365
+[[Exception stack
+G_cp_Lc/<@moz-extension://69cea852-fc55-41c6-9655-9f1c59064fe3/background.js:365:59
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:693:41
+fire@resource://gre/modules/ExtensionChild.sys.mjs:819:37
+recvRunListener@resource://gre/modules/ExtensionChild.sys.mjs:823:13
+_recv@resource://gre/modules/ConduitsChild.sys.mjs:77:20
+receiveMessage@resource://gre/modules/ConduitsChild.sys.mjs:189:20
+]]
+1692361045073	Marionette	INFO	Stopped listening on port 57081
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953790
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+[Parent 13088, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12528, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13088, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12528, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13088, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12528, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: , line 0: TypeError: error loading dynamically imported module: https://static.addtoany.com/menu/svg/icons/facebook.js
+JavaScript error: , line 0: TypeError: error loading dynamically imported module: https://static.addtoany.com/menu/svg/icons/twitter.js
+JavaScript error: , line 0: TypeError: error loading dynamically imported module: https://static.addtoany.com/menu/svg/icons/linkedin.js
+[Parent 13088, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12528, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692361116667	geckodriver	INFO	Listening on 127.0.0.1:57262
+1692361119700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\BBDNET~1\\AppData\\Local\\Temp\\rust_mozprofiletGZY5S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692361120000	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692361120061	Marionette	INFO	Listening on port 57309
+WebDriver BiDi listening on ws://127.0.0.1:57263
+Read port: 57309
+1692361120257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57263/devtools/browser/528420ef-5e04-4df4-9f93-e252314b8497
+JavaScript error: https://script.crazyegg.com/pages/scripts/0085/1990.js, line 1: Error: CE: multiple userscripts installed
+[Parent 1288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 45544, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://bat.bing.com/bat.js, line 1: Script terminated by timeout at:
+UET/this.clone@https://bat.bing.com/bat.js:1:36138
+UET/this.combine@https://bat.bing.com/bat.js:1:36217
+UET/this.fireSendBeacon@https://bat.bing.com/bat.js:1:37232
+UET/this.firePageHide@https://bat.bing.com/bat.js:1:37159
+_invokeListener@https://rum.sumologic.com/sumologic-rum.js:1:81516
+a@https://rum.sumologic.com/sumologic-rum.js:1:82290
+_bindFunction/r/<@https://rum.sumologic.com/sumologic-rum.js:1:69772
+with@https://rum.sumologic.com/sumologic-rum.js:1:70746
+r@https://rum.sumologic.com/sumologic-rum.js:1:69724
+c@https://www.lambdatest.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9405
+
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953784
+1692368292443	Marionette	INFO	Stopped listening on port 57309
+Dynamically enable window occlusion 1
+[Parent 1288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 45544, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 45544, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 45544, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 45544, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1288, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 45544, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+s.mjs:437:21
+Line: 708, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/utils.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/common.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/hooks_firefox_quantum.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/password_reuse_contentscript.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/url_reputation_contentscript.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/zero_phishing_contentscript.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+console.error: ({})
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/upload_protection_contentscript.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/utils.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/favicon_fetcher.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+console.error: ({})
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/common.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/hooks_firefox_quantum.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/password_reuse_contentscript.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/url_reputation_contentscript.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/zero_phishing_contentscript.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/upload_protection_contentscript.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/utils.js'
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/common.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/hooks_firefox_quantum.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/password_reuse_contentscript.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/url_reputation_contentscript.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/zero_phishing_contentscript.js'
+SourceActor threw an exception: [Exception... "Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/favicon_fetcher.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 708"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:708:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:561:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 708, column: 0
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/upload_protection_contentscript.js'
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/favicon_fetcher.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'resource://gre/modules/ExtensionContent.sys.mjs'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/utils.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/common.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/hooks_firefox_quantum.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/password_reuse_contentscript.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/url_reputation_contentscript.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/zero_phishing_contentscript.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/upload_protection_contentscript.js'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 708: Failed to open input source 'moz-extension://35c5595b-9993-4725-b551-6603cfc13dcf/data/favicon_fetcher.js'
+JavaScript error: resource://gre/modules/ConduitsChild.sys.mjs, line 108: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953799
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1692368289476	Marionette	INFO	Stopped listening on port 57681
+Dynamically enable window occlusion 1
+[Parent 9680, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9680, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9680, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9680, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[Parent 9680, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9680, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[GPU 12652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9680, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
