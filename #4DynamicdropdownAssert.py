@@ -52,4 +52,4 @@ print("Destination: " + driver.find_element(By.CSS_SELECTOR, "#ctl00_mainContent
 # Assert dynamic values
 assert (driver.find_element(By.CSS_SELECTOR,"#autosuggest").get_attribute("value")) == "India"
 
-driver.close()
+#driver.close()
