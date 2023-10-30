@@ -84,7 +84,7 @@ assert "Code applied ..!" in promotext
 print(promotext)
 
 # Assert that discounted amount is always less than the Total amount after applying discount 
-discountedTotal = int(driver.find_element(By.CSS_SELECTOR,".discountAmt").text)
+discountedTotal = float(driver.find_element(By.CSS_SELECTOR,".discountAmt").text)
 print("Payable amount after discount: " + str(discountedTotal))
 assert carttotal > discountedTotal
 
