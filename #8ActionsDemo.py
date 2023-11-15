@@ -1,3 +1,1 @@
-
-
-driver = webdriver
+webdriver
